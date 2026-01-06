@@ -27,11 +27,6 @@ I take pride in crafting coherent, robust systems that are easy to maintain and 
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethkingsbury&layout=compact&theme=github_dark)
-
----
-
 <!--
 Feel free to connect or check out my repositories!
 -->
